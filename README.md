@@ -31,7 +31,7 @@ Siga as instruções abaixo para iniciar o projeto em sua máquina local:
 ### Executando o Projeto
 
 1. Abra o projeto em sua IDE Java.
-2. Execute a classe principal `Application.java`.
+2. Execute a classe principal `VolajeApplication.java`.
 3. A aplicação será iniciada na porta padrão `8080`.
 
 ### Documentação da API
